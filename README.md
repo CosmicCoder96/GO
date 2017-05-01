@@ -1,2 +1,2 @@
 # GO
-Some codes in GO  I will write during Principle of Programming Languages course
+Some codes in GO  I will write during Principles of Programming Languages course
